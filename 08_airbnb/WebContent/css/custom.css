@@ -1,0 +1,32 @@
+@charset "ISO-8859-1";
+
+div {
+	border: 1px solid black;
+}
+
+div#nav {
+	display: block;
+	float: right;
+	
+}
+
+h1#titulo {
+	color: #FF5A5F;
+	font-size: 40px;
+	
+}
+
+p#titulo1 {
+	color: black;
+	font-size: 40px;
+}
+
+button#boton {
+	color: white;
+	border-color: #FF5A5F;
+	background-color: #FF5A5F;
+}
+
+div#row1 {
+	magin: auto; 
+}
